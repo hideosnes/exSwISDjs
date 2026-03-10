@@ -1,6 +1,6 @@
 ## Installation
 
-This is a [Node.js](https://nodejs.org/en/) module available through the
+This is a [Node.js](https://nodejs.org/en/) module and will be available through the
 [npm registry](https://www.npmjs.com/).
 
 Before installing, [download and install Node.js](https://nodejs.org/en/download/).
